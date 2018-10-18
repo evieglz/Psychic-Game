@@ -1,0 +1,21 @@
+#body{
+    background-color: black;
+    background-image: url("https://static1.squarespace.com/static/55dc4283e4b0f52d9d452b49/t/55e61a70e4b0eec2a19f2557/1441143474300/ian-kelly-cloud-BACKGROUND.png?format=2500w")
+}
+
+#jumbo{
+    background-color: white;
+    margin: 20px;
+    padding: 15px;
+    margin-top: 200x;
+    margin-right: 40px;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
